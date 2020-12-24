@@ -1,0 +1,12 @@
+apple
+ball
+bat
+cat
+mat
+tall
+large
+small
+orange
+ant
+pant
+aeet
